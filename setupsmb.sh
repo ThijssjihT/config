@@ -8,3 +8,8 @@ cat <<EOT >> ~/fstab
 EOT
 sudo cp ~/fstab /etc/fstab
 sudo rm /etc/fstab
+
+echo "Enter smb password for credentials file"
+
+read -sp 'Password: ' password
+echo password=$password >> ~/.smbcredentials
