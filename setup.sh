@@ -2,6 +2,9 @@
 ### Last update 2019-05-04
 ### Thijs Janssen
 
+### Setup swapfile
+bash setupswap.sh
+
 ### Setup smb mounts
 bash setupsmb.sh
 
