@@ -12,5 +12,7 @@ bash setupsmb.sh
 bash installrpmfusion.sh
 
 ### Install printer drivers
+bash installprinter.sh
 
 ### Install additional software
+bash install software.sh
