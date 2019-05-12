@@ -15,4 +15,4 @@ bash installrpmfusion.sh
 bash installprinter.sh
 
 ### Install additional software
-bash install software.sh
+bash installsoftware.sh
