@@ -1,5 +1,5 @@
 ### Run file to setup after a fresh fedora install.
-### Last update 2019-05-12
+### Last update 2019-05-19
 ### Thijs Janssen
 
 ### Setup swapfile
