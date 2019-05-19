@@ -5,6 +5,9 @@
 ### Setup swapfile
 bash setupswap.sh
 
+### Theme
+bash theme.sh
+
 ### Setup smb mounts
 bash setupsmb.sh
 
